@@ -8,7 +8,7 @@ If you have questions, run into a bug, or want to request a feature, use one of 
 
 ## Contact
 
-- Email: `support@yourdomain.com`
+- Email: `datamuse.ai@gmail.com`
 - GitHub Issues: open an issue in this repository
 
 Replace the email above with your real support email before publishing.
