@@ -73,6 +73,6 @@ This Privacy Policy may be updated from time to time. Any updates will be posted
 
 If you have questions about this Privacy Policy, contact:
 
-- Email: `support@yourdomain.com`
+- Email: `datamuse.ai@gmail.com`
 
 Replace the email above with your real support contact before publishing.
